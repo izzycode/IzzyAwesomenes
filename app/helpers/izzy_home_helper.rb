@@ -1,0 +1,2 @@
+module IzzyHomeHelper
+end
